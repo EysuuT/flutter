@@ -1,2 +1,2 @@
-# flutter
-My journey in learning flutter.
+# Flutter
+My journey through learning flutter.
