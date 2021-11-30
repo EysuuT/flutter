@@ -23,11 +23,12 @@ class _ChallengeState extends State<Challenge> {
             child: Column(
               children: [
                 Container(
-                    child: const CircleAvatar(
-                  radius: 100,
-                  backgroundImage: NetworkImage(
-                      'https://pm1.narvii.com/6807/4c6c6c329270a8bc9285d1ba738eff9951b1adf0v2_hq.jpg'),
-                )),
+                  child: const CircleAvatar(
+                    radius: 100,
+                    backgroundImage: NetworkImage(
+                        'https://pm1.narvii.com/6807/4c6c6c329270a8bc9285d1ba738eff9951b1adf0v2_hq.jpg'),
+                  ),
+                ),
                 const Padding(
                   padding: EdgeInsets.all(20),
                 ),
